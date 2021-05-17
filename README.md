@@ -1,7 +1,3 @@
 # Programming-Club-Website
 
-**
-
-# Demonstration of the website:
-
-** 
+# **Demonstration of the website:**
