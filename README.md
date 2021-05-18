@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/homepage.JPG">
+<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/Website.gif">
 </p>
 
 # CSECU Programming Club Website
