@@ -17,19 +17,34 @@ This website is designed unofficially to manage a programming club at the [Unive
 ## Our Coaches : 
 Users can find a brief intro of our respected coaches here. 
 <p align="center">
-<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/coaches.gif">
+<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/coaches(2).gif">
 </p>
 
 ## Members :
+This sector contains three features:
 
+ 1.  Membership form: To be a member of this club, a user must fill up this form.
+ 2.  Member details: User can find the name, session, dept, Codeforces, UVa username of all the members.  Through the details, members can connect with e/o. 
+ 3. Teams: User can check out the existing programming teams of the club. A user can also register his/her team of three members. All members of the team must be registered. 
+<p align="center">
+<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/members.gif">
+</p>
 ## Achivements :
-
+<p align="center">
+<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/achievements.gif">
+</p>
 ## Contests :
-
+<p align="center">
+<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/contest.gif">
+</p>
 ## Class Deatils :
-
+<p align="center">
+<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/classes.gif">
+</p>
 ## Programming Guideline :
-
+<p align="center">
+<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/programming_guideline.gif">
+</p>
 ## Demonstration :
 
 Following is a demstration video of our website. Click on the image/video to watch the full preview.
