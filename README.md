@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/Website.gif">
+<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/homepage.JPG">
 </p>
 
 # CSECU Programming Club Website
@@ -11,11 +11,14 @@ This website is designed unofficially to manage a programming club at the [Unive
 
 ## Key Features :
 
- • [Our Coaches](https://github.com/Kingsman-Service/Programming-Club-Website#our-coaches-) • [Membership info](https://github.com/Kingsman-Service/Programming-Club-Website#members-) • [Achievements](https://github.com/Kingsman-Service/Programming-Club-Website#achivements-) • [Contests](https://github.com/Kingsman-Service/Programming-Club-Website#contests-) • [Class Details](https://github.com/Kingsman-Service/Programming-Club-Website#class-deatils-) • [Programming Guideline](https://github.com/Kingsman-Service/Programming-Club-Website#programming-guideline-) • [Demonstration Video](https://github.com/Kingsman-Service/Programming-Club-Website#demonstration-)
+• [Our Coaches](https://github.com/Kingsman-Service/Programming-Club-Website#our-coaches-) • [Membership info](https://github.com/Kingsman-Service/Programming-Club-Website#members-) • [Achievements](https://github.com/Kingsman-Service/Programming-Club-Website#achivements-) • [Contests](https://github.com/Kingsman-Service/Programming-Club-Website#contests-) • [Class Details](https://github.com/Kingsman-Service/Programming-Club-Website#class-deatils-) • [Programming Guideline](https://github.com/Kingsman-Service/Programming-Club-Website#programming-guideline-) • [Demonstration Video](https://github.com/Kingsman-Service/Programming-Club-Website#demonstration-)
 
 
-## Our Coaches :
-
+## Our Coaches : 
+Users can find a brief intro of our respected coaches here. 
+<p align="center">
+<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/coaches.gif">
+</p>
 ## Members :
 
 ## Achivements :
