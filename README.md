@@ -29,25 +29,34 @@ This sector contains three features:
 <p align="center">
 <img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/members.gif">
 </p>
-## Achivements :
+
+## Achivements : 
+It shows the rewards achieved by our teams in various contests over the years.
 <p align="center">
 <img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/achievements.gif">
 </p>
+
 ## Contests :
+Here, user can find the contest details. User can register for upcoming contest, read the weekly contest feedbacks and also find details about previous contests arranged by club. For contest registration, a user must be a member.
 <p align="center">
 <img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/contest.gif">
 </p>
-## Class Deatils :
+
+## Class Deatils : 
+At least two classes will be held in a week. Details along with class video links will be provided regularly. Users can easily search for desired classes here by topic name or class number. 
 <p align="center">
 <img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/classes.gif">
 </p>
+
 ## Programming Guideline :
+This segment is quite beneficial for beginners in programming. Newbie programmers often feel lost because of various content available online. Here, they can find some useful resources which are suggested by our coaches. Users can easily search for any topic and they will get relevant blogs/books, programming problems, etc. on the topic.
 <p align="center">
 <img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/programming_guideline.gif">
 </p>
+
 ## Demonstration :
 
-Following is a demstration video of our website. Click on the image/video to watch the full preview.
+Following is a demstration video of our website. Click on the image/video to watch the full video.
 
 <p align="center">
 <img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/Programming%20Club%20Website.mp4">
