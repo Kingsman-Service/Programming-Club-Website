@@ -37,7 +37,7 @@ It shows the rewards achieved by our teams in various contests over the years.
 </p>
 
 ## Contests :
-Here, user can find the contest details. User can register for upcoming contest, read the weekly contest feedbacks and also find details about previous contests arranged by club. For contest registration, a user must be a member.
+Here, user can find the contest details. User can register for upcoming contest, read the weekly contest feedbacks and also find details about previous contests arranged by the club. For contest registration, a user must be a member.
 <p align="center">
 <img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/gifs/contest.gif">
 </p>
