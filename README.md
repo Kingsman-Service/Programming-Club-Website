@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/homepage.JPG">
+</p>
+
 # CSECU Programming-Club-Website
 This website is built to manage a programming club with ease. It was designed for academic purpose. This repository contains the demonstration of the website; also overview of the key features.
 ## Technology used:
