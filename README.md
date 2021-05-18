@@ -1,5 +1,5 @@
-# Programming-Club-Website
-This website is built to manage a programming club with ease. This repository contains the demonstration of the website; also overview of the key features.
+# CSECU Programming-Club-Website
+This website is built to manage a programming club with ease. It was designed for academic purpose. This repository contains the demonstration of the website; also overview of the key features.
 ## Technology used:
 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
