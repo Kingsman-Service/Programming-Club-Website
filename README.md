@@ -3,7 +3,7 @@
 <img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/homepage.JPG">
 </p>
 
-# CSECU Programming Club Website
+# CSE CU Programming Club
 This website is designed unofficially to manage a programming club at the [Univesity of Chittagong](https://cu.ac.bd/). Through this website, the users can be aware of the events and resources of this club. Any student can be a part of this club and enrich himself with the help of the programming resouces and guideline.
 ## Technology used:
 
