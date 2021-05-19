@@ -4,7 +4,7 @@
 </p>
 
 # CSE CU Programming Club
-This website is designed unofficially to manage a programming club at the [Univesity of Chittagong](https://cu.ac.bd/). Through this website, the users can be aware of the events and resources of this club. Any student can be a part of this club and enrich himself with the help of the programming resouces and guideline.
+This website is designed unofficially to manage a programming club at the [Univesity of Chittagong](https://cu.ac.bd/). Through this website, the users can be aware of the events and resources of this club. Any student can be a part of this club and enrich himself with the help of programming resources and guidelines.
 ## Technology used:
 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -56,7 +56,7 @@ This segment is quite beneficial for beginners in programming. Newbie programmer
 
 ## Demonstration :
 
-Following is a demstration video of our website. Click on the image/video to watch the full video.
+Following is a demonstration video of our website. Click on the image/video to watch the full video.
 
 <p align="center">
 <img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/Programming%20Club%20Website.mp4">
