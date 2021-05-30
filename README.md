@@ -56,8 +56,8 @@ This segment is quite beneficial for beginners in programming. Newbie programmer
 
 ## Demonstration :
 
-Following is a demonstration video of our website. Click on the image/video to watch the full video.
+Following is a demonstration video of our website. 
 
 <p align="center">
-<img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/Programming%20Club%20Website.mp4">
+<img src="https://drive.google.com/file/d/1NxA15FOziHulFMtie0rlWilkSwXBEPxN/view?usp=sharing">
 </p>
