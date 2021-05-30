@@ -58,6 +58,4 @@ This segment is quite beneficial for beginners in programming. Newbie programmer
 
 Follow this link to get a full demonstration video of our website. 
 
-<p align="center">
-<img src="https://drive.google.com/file/d/1NxA15FOziHulFMtie0rlWilkSwXBEPxN/view?usp=sharing">
-</p>
+https://drive.google.com/file/d/1NxA15FOziHulFMtie0rlWilkSwXBEPxN/view?usp=sharing
