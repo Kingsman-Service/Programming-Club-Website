@@ -2,9 +2,10 @@
 <p align="center">
 <img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/homepage.JPG">
 </p>
-## Contributions
 
-1. [farin15](https://github.com/farin15)
+# Contributions
+
+- [farin15](https://github.com/farin15)
    - Repo design
    - PHP backend development
    - Database design
