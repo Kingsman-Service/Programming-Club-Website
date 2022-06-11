@@ -2,6 +2,15 @@
 <p align="center">
 <img src="https://github.com/Kingsman-Service/Programming-Club-Website/blob/main/homepage.JPG">
 </p>
+## Contributions
+
+1. [farin15](https://github.com/farin15)
+   - Repo design
+   - PHP backend development
+   - Database design
+   - Partial UI design
+    
+
 
 # CSE CU Programming Club
 This website is designed unofficially to manage a programming club at the [University of Chittagong](https://cu.ac.bd/). Through this website, the users can be aware of the events and resources of this club. Any student can be a part of this club and enrich himself with the help of programming resources and guidelines.
